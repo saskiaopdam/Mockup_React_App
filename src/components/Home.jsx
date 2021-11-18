@@ -139,7 +139,7 @@ function Home() {
         a router and a bunch of styled components. All made from scratch with
         just some css an javascript. Have a look around or checkout my{" "}
         <AnchorLink
-          href="https://github.com/saskiaopdam"
+          href="https://github.com/saskiaopdam/Mockup_React_App"
           target="_blank"
           rel="noreferrer"
         >
